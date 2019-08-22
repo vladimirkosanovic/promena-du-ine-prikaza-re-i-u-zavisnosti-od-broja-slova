@@ -1,0 +1,8 @@
+podeliti reči u importovanom tekstu u 3 grupe u zavisnosti od broja slova u reči
+osnovne reči su dužine 4 do 9 slova (uključi i 4 i 9)
+kratke reči su one sa 1, 2 i 3 slova
+duge reči su one sa preko 9 slova
+osnovne se prikazuju izabranom brzinom (osnovni takt)
+duge reči se prikazuju 50% duže vremena (1,5 takt)
+kratke reči mogu da se prikazuju kraće od osnovnog takta, tako da se nadoknadi vreme koje je potrošeno na duge reči
+opciono, reči kojima se završava rečenica (iza kojih stoji 1 tačka ili ! ili ?) trebalo bi da se prikažu kao duge reči
